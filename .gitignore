@@ -1,0 +1,10 @@
+# 1. Ignore EVERYTHING
+*
+
+# 2. But... Do NOT ignore these specific file types (!)
+!*.cpp
+!*.h
+!*.hpp
+
+# 3. Essential: Do NOT ignore the .gitignore file itself
+!.gitignore
